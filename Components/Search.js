@@ -3,7 +3,7 @@ import React from 'react'
 
 import { Button, TextInput, View} from 'react-native'
 
-class Search extends react.Component {
+class Search extends React.Component {
   render() {
     return (
       <View>
